@@ -65,7 +65,7 @@ thriftpy==0.3.9
 tinydb==3.3.1
 toolz==0.8.2
 urllib3==1.22
-virtualenv==15.1.0
+virtualenv==21.14.13
 virtualenv-clone==0.2.6
 virtualenvwrapper==4.8.2
 web3==3.11.0
